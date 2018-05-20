@@ -10,7 +10,7 @@ local function wifi_wait_ip()
     print("MAC address is: " .. wifi.ap.getmac())
     print("IP is "..wifi.sta.getip())
     print("====================================")
-    --mqtt_start()
+    mqtt_start()
   end
 end
 
