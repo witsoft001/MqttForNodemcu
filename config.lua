@@ -1,6 +1,6 @@
 local module = {}
-module.SSID="七喜"
-module.WIFI_PWD="18626904512"
+module.SSID="ssid"
+module.WIFI_PWD="password"
 
 module.HOST = "183.230.40.39"
 module.PORT = 6002
